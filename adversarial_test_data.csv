@@ -1,0 +1,1001 @@
+amt,category,merchant,payment_method,distance_km,hour,is_international,cvv_matches,is_fraud
+1902.08,travel,Delta Air,Credit_Card,1365.19,14,1,1,0
+54.42,grocery_pos,Walmart,Debit_Card,4.83,12,0,1,0
+19.05,grocery_pos,Local_Cafe,Debit_Card,10.2,2,0,0,1
+58.37,grocery_pos,Walmart,Debit_Card,13.86,12,0,1,0
+6756.01,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+4628.21,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+1.0,shopping_net,Unknown_Foreign_Store,Digital_Wallet,450.0,23,1,1,1
+1170.38,travel,Delta Air,Credit_Card,3194.53,14,1,1,0
+5.43,grocery_pos,Local_Cafe,Debit_Card,10.2,2,0,0,1
+44.18,grocery_pos,Walmart,Debit_Card,13.94,12,0,1,0
+50.23,grocery_pos,Walmart,Debit_Card,14.62,12,0,1,0
+1315.78,travel,Delta Air,Credit_Card,4491.52,14,1,1,0
+33.54,grocery_pos,Walmart,Debit_Card,5.58,12,0,1,0
+9.89,grocery_pos,Local_Cafe,Debit_Card,10.2,2,0,0,1
+1.0,shopping_net,Unknown_Foreign_Store,Digital_Wallet,450.0,23,1,1,1
+2623.39,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+6949.7,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+2016.15,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+23.88,grocery_pos,Local_Cafe,Debit_Card,10.2,2,0,0,1
+3476.15,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+3176.8,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+1.0,shopping_net,Unknown_Foreign_Store,Digital_Wallet,450.0,23,1,1,1
+6185.95,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+59.35,grocery_pos,Walmart,Debit_Card,14.94,12,0,1,0
+6618.39,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+5753.94,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+130.93,entertainment,Steam,Digital_Wallet,5.5,3,0,1,0
+5719.85,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+3950.29,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+69.81,grocery_pos,Walmart,Debit_Card,6.39,12,0,1,0
+68.48,grocery_pos,Walmart,Debit_Card,7.03,12,0,1,0
+22.23,grocery_pos,Local_Cafe,Debit_Card,10.2,2,0,0,1
+76.38,grocery_pos,Walmart,Debit_Card,8.78,12,0,1,0
+1.0,shopping_net,Unknown_Foreign_Store,Digital_Wallet,450.0,23,1,1,1
+5710.9,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+115.34,entertainment,Steam,Digital_Wallet,5.5,3,0,1,0
+45.46,grocery_pos,Walmart,Debit_Card,10.95,12,0,1,0
+48.97,grocery_pos,Walmart,Debit_Card,3.23,12,0,1,0
+69.2,grocery_pos,Walmart,Debit_Card,14.68,12,0,1,0
+3272.6,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+1.0,shopping_net,Unknown_Foreign_Store,Digital_Wallet,450.0,23,1,1,1
+67.44,grocery_pos,Walmart,Debit_Card,7.51,12,0,1,0
+1.0,shopping_net,Unknown_Foreign_Store,Digital_Wallet,450.0,23,1,1,1
+3294.06,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+6961.55,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+29.2,grocery_pos,Walmart,Debit_Card,2.64,12,0,1,0
+3800.94,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+57.43,grocery_pos,Walmart,Debit_Card,5.3,12,0,1,0
+97.55,entertainment,Steam,Digital_Wallet,5.5,3,0,1,0
+1.0,shopping_net,Unknown_Foreign_Store,Digital_Wallet,450.0,23,1,1,1
+3371.56,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+6739.49,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+63.53,grocery_pos,Walmart,Debit_Card,2.48,12,0,1,0
+1894.87,travel,Delta Air,Credit_Card,2566.8,14,1,1,0
+1.0,shopping_net,Unknown_Foreign_Store,Digital_Wallet,450.0,23,1,1,1
+1.0,shopping_net,Unknown_Foreign_Store,Digital_Wallet,450.0,23,1,1,1
+1.0,shopping_net,Unknown_Foreign_Store,Digital_Wallet,450.0,23,1,1,1
+40.8,grocery_pos,Walmart,Debit_Card,2.86,12,0,1,0
+41.89,grocery_pos,Walmart,Debit_Card,6.51,12,0,1,0
+71.26,grocery_pos,Walmart,Debit_Card,6.09,12,0,1,0
+24.13,grocery_pos,Local_Cafe,Debit_Card,10.2,2,0,0,1
+2874.25,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+70.64,grocery_pos,Walmart,Debit_Card,4.51,12,0,1,0
+13.21,grocery_pos,Walmart,Debit_Card,10.95,12,0,1,0
+1260.41,travel,Delta Air,Credit_Card,1242.96,14,1,1,0
+10.42,grocery_pos,Walmart,Debit_Card,6.12,12,0,1,0
+1.0,shopping_net,Unknown_Foreign_Store,Digital_Wallet,450.0,23,1,1,1
+1412.51,travel,Delta Air,Credit_Card,3677.26,14,1,1,0
+5166.23,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+101.61,entertainment,Steam,Digital_Wallet,5.5,3,0,1,0
+3081.84,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+8.24,grocery_pos,Local_Cafe,Debit_Card,10.2,2,0,0,1
+52.73,entertainment,Steam,Digital_Wallet,5.5,3,0,1,0
+3472.9,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+58.99,grocery_pos,Walmart,Debit_Card,12.12,12,0,1,0
+79.89,grocery_pos,Walmart,Debit_Card,6.32,12,0,1,0
+63.56,grocery_pos,Walmart,Debit_Card,8.92,12,0,1,0
+58.44,grocery_pos,Walmart,Debit_Card,8.76,12,0,1,0
+46.74,grocery_pos,Walmart,Debit_Card,8.53,12,0,1,0
+29.92,grocery_pos,Walmart,Debit_Card,14.52,12,0,1,0
+32.74,grocery_pos,Walmart,Debit_Card,2.4,12,0,1,0
+69.19,grocery_pos,Walmart,Debit_Card,3.62,12,0,1,0
+3662.14,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+1.0,shopping_net,Unknown_Foreign_Store,Digital_Wallet,450.0,23,1,1,1
+78.05,grocery_pos,Walmart,Debit_Card,14.82,12,0,1,0
+1.0,shopping_net,Unknown_Foreign_Store,Digital_Wallet,450.0,23,1,1,1
+46.51,grocery_pos,Walmart,Debit_Card,1.04,12,0,1,0
+5058.91,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+1.0,shopping_net,Unknown_Foreign_Store,Digital_Wallet,450.0,23,1,1,1
+59.33,grocery_pos,Walmart,Debit_Card,5.89,12,0,1,0
+1.0,shopping_net,Unknown_Foreign_Store,Digital_Wallet,450.0,23,1,1,1
+23.14,grocery_pos,Walmart,Debit_Card,9.03,12,0,1,0
+4988.83,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+15.48,grocery_pos,Walmart,Debit_Card,9.18,12,0,1,0
+17.81,grocery_pos,Local_Cafe,Debit_Card,10.2,2,0,0,1
+74.27,grocery_pos,Walmart,Debit_Card,5.36,12,0,1,0
+17.0,grocery_pos,Walmart,Debit_Card,1.05,12,0,1,0
+36.75,grocery_pos,Walmart,Debit_Card,1.72,12,0,1,0
+122.22,entertainment,Steam,Digital_Wallet,5.5,3,0,1,0
+19.65,grocery_pos,Local_Cafe,Debit_Card,10.2,2,0,0,1
+5659.78,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+4687.91,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+70.12,grocery_pos,Walmart,Debit_Card,10.13,12,0,1,0
+20.97,grocery_pos,Walmart,Debit_Card,6.48,12,0,1,0
+1481.09,travel,Delta Air,Credit_Card,1703.31,14,1,1,0
+4041.18,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+22.3,grocery_pos,Local_Cafe,Debit_Card,10.2,2,0,0,1
+1.0,shopping_net,Unknown_Foreign_Store,Digital_Wallet,450.0,23,1,1,1
+111.27,entertainment,Steam,Digital_Wallet,5.5,3,0,1,0
+5.55,grocery_pos,Local_Cafe,Debit_Card,10.2,2,0,0,1
+17.95,grocery_pos,Walmart,Debit_Card,11.86,12,0,1,0
+56.04,grocery_pos,Walmart,Debit_Card,5.54,12,0,1,0
+4533.08,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+3320.05,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+3085.62,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+16.75,grocery_pos,Local_Cafe,Debit_Card,10.2,2,0,0,1
+2548.27,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+1476.49,travel,Delta Air,Credit_Card,1846.27,14,1,1,0
+1403.9,travel,Delta Air,Credit_Card,2395.57,14,1,1,0
+3116.41,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+5177.42,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+5066.06,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+33.02,grocery_pos,Walmart,Debit_Card,8.28,12,0,1,0
+60.27,grocery_pos,Walmart,Debit_Card,14.68,12,0,1,0
+1.0,shopping_net,Unknown_Foreign_Store,Digital_Wallet,450.0,23,1,1,1
+20.58,grocery_pos,Walmart,Debit_Card,6.58,12,0,1,0
+21.49,grocery_pos,Walmart,Debit_Card,1.26,12,0,1,0
+75.75,grocery_pos,Walmart,Debit_Card,7.34,12,0,1,0
+28.43,grocery_pos,Walmart,Debit_Card,5.97,12,0,1,0
+2270.21,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+113.59,entertainment,Steam,Digital_Wallet,5.5,3,0,1,0
+899.83,travel,Delta Air,Credit_Card,4054.73,14,1,1,0
+6128.64,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+54.51,entertainment,Steam,Digital_Wallet,5.5,3,0,1,0
+30.06,grocery_pos,Walmart,Debit_Card,5.29,12,0,1,0
+3822.84,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+26.75,grocery_pos,Walmart,Debit_Card,6.66,12,0,1,0
+2140.22,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+14.18,grocery_pos,Walmart,Debit_Card,6.57,12,0,1,0
+50.89,grocery_pos,Walmart,Debit_Card,14.72,12,0,1,0
+39.65,grocery_pos,Walmart,Debit_Card,6.21,12,0,1,0
+30.58,grocery_pos,Walmart,Debit_Card,12.6,12,0,1,0
+6.8,grocery_pos,Local_Cafe,Debit_Card,10.2,2,0,0,1
+3101.45,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+2999.28,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+1.0,shopping_net,Unknown_Foreign_Store,Digital_Wallet,450.0,23,1,1,1
+36.49,grocery_pos,Walmart,Debit_Card,2.9,12,0,1,0
+2957.33,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+51.66,grocery_pos,Walmart,Debit_Card,7.18,12,0,1,0
+2588.27,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+62.99,grocery_pos,Walmart,Debit_Card,2.54,12,0,1,0
+60.41,grocery_pos,Walmart,Debit_Card,11.01,12,0,1,0
+1.0,shopping_net,Unknown_Foreign_Store,Digital_Wallet,450.0,23,1,1,1
+4276.41,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+10.25,grocery_pos,Walmart,Debit_Card,7.73,12,0,1,0
+2567.15,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+34.04,grocery_pos,Walmart,Debit_Card,8.18,12,0,1,0
+5380.36,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+5054.35,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+39.43,grocery_pos,Walmart,Debit_Card,2.6,12,0,1,0
+5189.1,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+5691.94,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+1.0,shopping_net,Unknown_Foreign_Store,Digital_Wallet,450.0,23,1,1,1
+72.55,entertainment,Steam,Digital_Wallet,5.5,3,0,1,0
+43.67,grocery_pos,Walmart,Debit_Card,3.54,12,0,1,0
+1.0,shopping_net,Unknown_Foreign_Store,Digital_Wallet,450.0,23,1,1,1
+17.26,grocery_pos,Local_Cafe,Debit_Card,10.2,2,0,0,1
+2626.36,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+64.22,grocery_pos,Walmart,Debit_Card,2.88,12,0,1,0
+29.46,grocery_pos,Walmart,Debit_Card,11.38,12,0,1,0
+1269.58,travel,Delta Air,Credit_Card,3625.37,14,1,1,0
+41.76,grocery_pos,Walmart,Debit_Card,1.3,12,0,1,0
+39.61,grocery_pos,Walmart,Debit_Card,3.21,12,0,1,0
+145.26,entertainment,Steam,Digital_Wallet,5.5,3,0,1,0
+1361.67,travel,Delta Air,Credit_Card,3503.63,14,1,1,0
+6.39,grocery_pos,Local_Cafe,Debit_Card,10.2,2,0,0,1
+11.1,grocery_pos,Walmart,Debit_Card,1.42,12,0,1,0
+13.73,grocery_pos,Local_Cafe,Debit_Card,10.2,2,0,0,1
+55.26,entertainment,Steam,Digital_Wallet,5.5,3,0,1,0
+55.91,grocery_pos,Walmart,Debit_Card,6.68,12,0,1,0
+3373.56,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+23.91,grocery_pos,Local_Cafe,Debit_Card,10.2,2,0,0,1
+3705.82,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+3070.38,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+30.03,grocery_pos,Walmart,Debit_Card,4.18,12,0,1,0
+7.38,grocery_pos,Local_Cafe,Debit_Card,10.2,2,0,0,1
+1936.48,travel,Delta Air,Credit_Card,4661.42,14,1,1,0
+5056.65,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+4330.08,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+4977.83,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+6.79,grocery_pos,Local_Cafe,Debit_Card,10.2,2,0,0,1
+73.3,grocery_pos,Walmart,Debit_Card,9.51,12,0,1,0
+22.34,grocery_pos,Local_Cafe,Debit_Card,10.2,2,0,0,1
+10.83,grocery_pos,Local_Cafe,Debit_Card,10.2,2,0,0,1
+923.46,travel,Delta Air,Credit_Card,3500.83,14,1,1,0
+854.05,travel,Delta Air,Credit_Card,3690.79,14,1,1,0
+63.84,entertainment,Steam,Digital_Wallet,5.5,3,0,1,0
+2406.63,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+82.41,entertainment,Steam,Digital_Wallet,5.5,3,0,1,0
+3185.84,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+68.75,grocery_pos,Walmart,Debit_Card,3.32,12,0,1,0
+47.8,grocery_pos,Walmart,Debit_Card,14.04,12,0,1,0
+1873.97,travel,Delta Air,Credit_Card,1172.89,14,1,1,0
+3265.9,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+145.46,entertainment,Steam,Digital_Wallet,5.5,3,0,1,0
+2781.08,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+6486.51,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+62.92,grocery_pos,Walmart,Debit_Card,8.52,12,0,1,0
+4747.22,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+5641.6,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+16.55,grocery_pos,Local_Cafe,Debit_Card,10.2,2,0,0,1
+26.78,grocery_pos,Walmart,Debit_Card,1.21,12,0,1,0
+5793.7,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+1.0,shopping_net,Unknown_Foreign_Store,Digital_Wallet,450.0,23,1,1,1
+38.2,grocery_pos,Walmart,Debit_Card,2.71,12,0,1,0
+13.99,grocery_pos,Local_Cafe,Debit_Card,10.2,2,0,0,1
+1933.73,travel,Delta Air,Credit_Card,3485.31,14,1,1,0
+1482.8,travel,Delta Air,Credit_Card,2829.65,14,1,1,0
+1.0,shopping_net,Unknown_Foreign_Store,Digital_Wallet,450.0,23,1,1,1
+56.27,grocery_pos,Walmart,Debit_Card,5.18,12,0,1,0
+1068.3,travel,Delta Air,Credit_Card,1903.69,14,1,1,0
+1.0,shopping_net,Unknown_Foreign_Store,Digital_Wallet,450.0,23,1,1,1
+3550.12,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+80.11,entertainment,Steam,Digital_Wallet,5.5,3,0,1,0
+1.0,shopping_net,Unknown_Foreign_Store,Digital_Wallet,450.0,23,1,1,1
+1353.37,travel,Delta Air,Credit_Card,3739.57,14,1,1,0
+13.3,grocery_pos,Walmart,Debit_Card,4.25,12,0,1,0
+3427.13,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+4635.17,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+59.53,grocery_pos,Walmart,Debit_Card,14.44,12,0,1,0
+3720.54,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+70.43,grocery_pos,Walmart,Debit_Card,8.13,12,0,1,0
+2684.47,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+92.08,entertainment,Steam,Digital_Wallet,5.5,3,0,1,0
+6365.49,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+78.64,grocery_pos,Walmart,Debit_Card,8.55,12,0,1,0
+5.59,grocery_pos,Local_Cafe,Debit_Card,10.2,2,0,0,1
+33.5,grocery_pos,Walmart,Debit_Card,11.06,12,0,1,0
+1899.49,travel,Delta Air,Credit_Card,4885.95,14,1,1,0
+11.76,grocery_pos,Local_Cafe,Debit_Card,10.2,2,0,0,1
+2352.65,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+34.29,grocery_pos,Walmart,Debit_Card,6.48,12,0,1,0
+60.09,grocery_pos,Walmart,Debit_Card,6.75,12,0,1,0
+69.2,grocery_pos,Walmart,Debit_Card,7.39,12,0,1,0
+41.72,grocery_pos,Walmart,Debit_Card,14.05,12,0,1,0
+5.34,grocery_pos,Local_Cafe,Debit_Card,10.2,2,0,0,1
+138.53,entertainment,Steam,Digital_Wallet,5.5,3,0,1,0
+109.65,entertainment,Steam,Digital_Wallet,5.5,3,0,1,0
+5572.13,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+3488.71,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+2022.74,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+1.0,shopping_net,Unknown_Foreign_Store,Digital_Wallet,450.0,23,1,1,1
+3709.43,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+1221.63,travel,Delta Air,Credit_Card,1260.63,14,1,1,0
+2799.77,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+18.45,grocery_pos,Local_Cafe,Debit_Card,10.2,2,0,0,1
+22.77,grocery_pos,Walmart,Debit_Card,3.46,12,0,1,0
+21.34,grocery_pos,Walmart,Debit_Card,1.55,12,0,1,0
+2615.56,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+60.9,grocery_pos,Walmart,Debit_Card,10.4,12,0,1,0
+41.44,grocery_pos,Walmart,Debit_Card,7.96,12,0,1,0
+4166.13,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+2619.75,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+1846.02,travel,Delta Air,Credit_Card,3840.65,14,1,1,0
+27.26,grocery_pos,Walmart,Debit_Card,12.82,12,0,1,0
+10.77,grocery_pos,Local_Cafe,Debit_Card,10.2,2,0,0,1
+1.0,shopping_net,Unknown_Foreign_Store,Digital_Wallet,450.0,23,1,1,1
+5513.14,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+9.77,grocery_pos,Local_Cafe,Debit_Card,10.2,2,0,0,1
+61.29,grocery_pos,Walmart,Debit_Card,3.52,12,0,1,0
+1601.6,travel,Delta Air,Credit_Card,4434.91,14,1,1,0
+27.4,grocery_pos,Walmart,Debit_Card,10.06,12,0,1,0
+23.04,grocery_pos,Local_Cafe,Debit_Card,10.2,2,0,0,1
+6270.05,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+1972.43,travel,Delta Air,Credit_Card,2071.93,14,1,1,0
+1.0,shopping_net,Unknown_Foreign_Store,Digital_Wallet,450.0,23,1,1,1
+13.44,grocery_pos,Walmart,Debit_Card,12.09,12,0,1,0
+9.71,grocery_pos,Local_Cafe,Debit_Card,10.2,2,0,0,1
+75.94,grocery_pos,Walmart,Debit_Card,3.04,12,0,1,0
+70.68,entertainment,Steam,Digital_Wallet,5.5,3,0,1,0
+2087.55,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+1259.83,travel,Delta Air,Credit_Card,3774.62,14,1,1,0
+1.0,shopping_net,Unknown_Foreign_Store,Digital_Wallet,450.0,23,1,1,1
+17.25,grocery_pos,Local_Cafe,Debit_Card,10.2,2,0,0,1
+1.0,shopping_net,Unknown_Foreign_Store,Digital_Wallet,450.0,23,1,1,1
+49.65,grocery_pos,Walmart,Debit_Card,5.87,12,0,1,0
+13.78,grocery_pos,Walmart,Debit_Card,1.68,12,0,1,0
+1906.86,travel,Delta Air,Credit_Card,2213.52,14,1,1,0
+6514.75,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+1830.61,travel,Delta Air,Credit_Card,4736.35,14,1,1,0
+1723.28,travel,Delta Air,Credit_Card,3295.1,14,1,1,0
+2191.72,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+46.6,grocery_pos,Walmart,Debit_Card,1.48,12,0,1,0
+5810.7,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+35.49,grocery_pos,Walmart,Debit_Card,8.9,12,0,1,0
+1.0,shopping_net,Unknown_Foreign_Store,Digital_Wallet,450.0,23,1,1,1
+1.0,shopping_net,Unknown_Foreign_Store,Digital_Wallet,450.0,23,1,1,1
+63.56,entertainment,Steam,Digital_Wallet,5.5,3,0,1,0
+967.39,travel,Delta Air,Credit_Card,4758.17,14,1,1,0
+1204.48,travel,Delta Air,Credit_Card,4710.31,14,1,1,0
+3315.05,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+13.85,grocery_pos,Walmart,Debit_Card,8.3,12,0,1,0
+43.32,grocery_pos,Walmart,Debit_Card,13.19,12,0,1,0
+2373.26,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+12.76,grocery_pos,Local_Cafe,Debit_Card,10.2,2,0,0,1
+6660.82,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+142.01,entertainment,Steam,Digital_Wallet,5.5,3,0,1,0
+1.0,shopping_net,Unknown_Foreign_Store,Digital_Wallet,450.0,23,1,1,1
+852.1,travel,Delta Air,Credit_Card,3828.46,14,1,1,0
+10.78,grocery_pos,Walmart,Debit_Card,11.58,12,0,1,0
+1.0,shopping_net,Unknown_Foreign_Store,Digital_Wallet,450.0,23,1,1,1
+6121.07,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+1.0,shopping_net,Unknown_Foreign_Store,Digital_Wallet,450.0,23,1,1,1
+6365.09,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+5876.3,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+1.0,shopping_net,Unknown_Foreign_Store,Digital_Wallet,450.0,23,1,1,1
+67.47,grocery_pos,Walmart,Debit_Card,7.42,12,0,1,0
+997.74,travel,Delta Air,Credit_Card,1828.2,14,1,1,0
+8.47,grocery_pos,Local_Cafe,Debit_Card,10.2,2,0,0,1
+60.21,grocery_pos,Walmart,Debit_Card,11.02,12,0,1,0
+17.1,grocery_pos,Local_Cafe,Debit_Card,10.2,2,0,0,1
+45.14,grocery_pos,Walmart,Debit_Card,1.94,12,0,1,0
+1.0,shopping_net,Unknown_Foreign_Store,Digital_Wallet,450.0,23,1,1,1
+17.38,grocery_pos,Walmart,Debit_Card,4.25,12,0,1,0
+16.88,grocery_pos,Walmart,Debit_Card,9.32,12,0,1,0
+6023.68,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+6109.71,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+12.11,grocery_pos,Local_Cafe,Debit_Card,10.2,2,0,0,1
+3874.45,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+70.47,grocery_pos,Walmart,Debit_Card,12.83,12,0,1,0
+2416.85,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+10.43,grocery_pos,Local_Cafe,Debit_Card,10.2,2,0,0,1
+819.34,travel,Delta Air,Credit_Card,1507.83,14,1,1,0
+48.05,grocery_pos,Walmart,Debit_Card,2.52,12,0,1,0
+1800.18,travel,Delta Air,Credit_Card,4330.74,14,1,1,0
+4448.66,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+5076.48,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+1903.37,travel,Delta Air,Credit_Card,2662.01,14,1,1,0
+6407.01,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+134.76,entertainment,Steam,Digital_Wallet,5.5,3,0,1,0
+12.68,grocery_pos,Walmart,Debit_Card,8.65,12,0,1,0
+6350.21,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+34.06,grocery_pos,Walmart,Debit_Card,3.56,12,0,1,0
+1.0,shopping_net,Unknown_Foreign_Store,Digital_Wallet,450.0,23,1,1,1
+60.36,grocery_pos,Walmart,Debit_Card,6.92,12,0,1,0
+2584.05,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+1635.57,travel,Delta Air,Credit_Card,2761.31,14,1,1,0
+1136.57,travel,Delta Air,Credit_Card,1082.3,14,1,1,0
+1109.05,travel,Delta Air,Credit_Card,3257.44,14,1,1,0
+27.13,grocery_pos,Walmart,Debit_Card,5.74,12,0,1,0
+5819.72,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+1.0,shopping_net,Unknown_Foreign_Store,Digital_Wallet,450.0,23,1,1,1
+5218.42,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+1360.8,travel,Delta Air,Credit_Card,2500.44,14,1,1,0
+1.0,shopping_net,Unknown_Foreign_Store,Digital_Wallet,450.0,23,1,1,1
+5960.84,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+39.84,grocery_pos,Walmart,Debit_Card,13.51,12,0,1,0
+111.16,entertainment,Steam,Digital_Wallet,5.5,3,0,1,0
+1082.77,travel,Delta Air,Credit_Card,1596.25,14,1,1,0
+14.96,grocery_pos,Walmart,Debit_Card,3.52,12,0,1,0
+11.56,grocery_pos,Local_Cafe,Debit_Card,10.2,2,0,0,1
+1589.2,travel,Delta Air,Credit_Card,3339.62,14,1,1,0
+6477.11,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+59.22,entertainment,Steam,Digital_Wallet,5.5,3,0,1,0
+77.58,grocery_pos,Walmart,Debit_Card,10.21,12,0,1,0
+76.81,grocery_pos,Walmart,Debit_Card,2.22,12,0,1,0
+6689.8,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+18.36,grocery_pos,Local_Cafe,Debit_Card,10.2,2,0,0,1
+3519.55,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+17.84,grocery_pos,Local_Cafe,Debit_Card,10.2,2,0,0,1
+5009.41,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+29.39,grocery_pos,Walmart,Debit_Card,12.72,12,0,1,0
+1901.82,travel,Delta Air,Credit_Card,1312.34,14,1,1,0
+6138.55,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+4029.57,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+1621.8,travel,Delta Air,Credit_Card,2923.73,14,1,1,0
+57.47,grocery_pos,Walmart,Debit_Card,1.73,12,0,1,0
+1.0,shopping_net,Unknown_Foreign_Store,Digital_Wallet,450.0,23,1,1,1
+13.05,grocery_pos,Walmart,Debit_Card,5.27,12,0,1,0
+49.05,grocery_pos,Walmart,Debit_Card,5.9,12,0,1,0
+84.68,entertainment,Steam,Digital_Wallet,5.5,3,0,1,0
+44.41,grocery_pos,Walmart,Debit_Card,13.83,12,0,1,0
+1799.26,travel,Delta Air,Credit_Card,4384.22,14,1,1,0
+62.58,grocery_pos,Walmart,Debit_Card,11.62,12,0,1,0
+27.54,grocery_pos,Walmart,Debit_Card,14.89,12,0,1,0
+1.0,shopping_net,Unknown_Foreign_Store,Digital_Wallet,450.0,23,1,1,1
+72.07,grocery_pos,Walmart,Debit_Card,11.46,12,0,1,0
+11.05,grocery_pos,Walmart,Debit_Card,13.31,12,0,1,0
+1.0,shopping_net,Unknown_Foreign_Store,Digital_Wallet,450.0,23,1,1,1
+5324.07,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+38.35,grocery_pos,Walmart,Debit_Card,13.99,12,0,1,0
+1.0,shopping_net,Unknown_Foreign_Store,Digital_Wallet,450.0,23,1,1,1
+2864.36,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+70.14,entertainment,Steam,Digital_Wallet,5.5,3,0,1,0
+3333.32,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+5966.61,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+21.34,grocery_pos,Walmart,Debit_Card,9.36,12,0,1,0
+3032.92,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+1202.65,travel,Delta Air,Credit_Card,2398.26,14,1,1,0
+1.0,shopping_net,Unknown_Foreign_Store,Digital_Wallet,450.0,23,1,1,1
+24.32,grocery_pos,Walmart,Debit_Card,7.31,12,0,1,0
+6280.4,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+5539.65,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+1.0,shopping_net,Unknown_Foreign_Store,Digital_Wallet,450.0,23,1,1,1
+1.0,shopping_net,Unknown_Foreign_Store,Digital_Wallet,450.0,23,1,1,1
+1905.3,travel,Delta Air,Credit_Card,1876.32,14,1,1,0
+6597.38,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+5915.51,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+83.28,entertainment,Steam,Digital_Wallet,5.5,3,0,1,0
+13.05,grocery_pos,Walmart,Debit_Card,10.58,12,0,1,0
+44.56,grocery_pos,Walmart,Debit_Card,6.96,12,0,1,0
+4156.33,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+1083.75,travel,Delta Air,Credit_Card,2497.17,14,1,1,0
+1.0,shopping_net,Unknown_Foreign_Store,Digital_Wallet,450.0,23,1,1,1
+117.69,entertainment,Steam,Digital_Wallet,5.5,3,0,1,0
+1883.07,travel,Delta Air,Credit_Card,1888.63,14,1,1,0
+105.37,entertainment,Steam,Digital_Wallet,5.5,3,0,1,0
+1.0,shopping_net,Unknown_Foreign_Store,Digital_Wallet,450.0,23,1,1,1
+26.62,grocery_pos,Walmart,Debit_Card,5.66,12,0,1,0
+1669.35,travel,Delta Air,Credit_Card,3444.09,14,1,1,0
+116.3,entertainment,Steam,Digital_Wallet,5.5,3,0,1,0
+5882.55,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+1.0,shopping_net,Unknown_Foreign_Store,Digital_Wallet,450.0,23,1,1,1
+6416.32,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+1.0,shopping_net,Unknown_Foreign_Store,Digital_Wallet,450.0,23,1,1,1
+79.23,grocery_pos,Walmart,Debit_Card,4.31,12,0,1,0
+2686.65,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+6067.37,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+14.9,grocery_pos,Walmart,Debit_Card,8.27,12,0,1,0
+94.94,entertainment,Steam,Digital_Wallet,5.5,3,0,1,0
+70.58,grocery_pos,Walmart,Debit_Card,1.35,12,0,1,0
+1.0,shopping_net,Unknown_Foreign_Store,Digital_Wallet,450.0,23,1,1,1
+1.0,shopping_net,Unknown_Foreign_Store,Digital_Wallet,450.0,23,1,1,1
+57.32,grocery_pos,Walmart,Debit_Card,3.33,12,0,1,0
+1.0,shopping_net,Unknown_Foreign_Store,Digital_Wallet,450.0,23,1,1,1
+83.6,entertainment,Steam,Digital_Wallet,5.5,3,0,1,0
+1886.41,travel,Delta Air,Credit_Card,1830.54,14,1,1,0
+2835.55,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+4439.91,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+99.5,entertainment,Steam,Digital_Wallet,5.5,3,0,1,0
+15.79,grocery_pos,Walmart,Debit_Card,4.69,12,0,1,0
+80.88,entertainment,Steam,Digital_Wallet,5.5,3,0,1,0
+73.85,grocery_pos,Walmart,Debit_Card,9.13,12,0,1,0
+65.74,grocery_pos,Walmart,Debit_Card,5.99,12,0,1,0
+1067.92,travel,Delta Air,Credit_Card,2072.5,14,1,1,0
+2953.11,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+4188.46,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+6162.53,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+17.64,grocery_pos,Walmart,Debit_Card,2.31,12,0,1,0
+3115.69,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+76.11,grocery_pos,Walmart,Debit_Card,4.48,12,0,1,0
+6743.79,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+145.25,entertainment,Steam,Digital_Wallet,5.5,3,0,1,0
+146.75,entertainment,Steam,Digital_Wallet,5.5,3,0,1,0
+2969.38,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+75.3,grocery_pos,Walmart,Debit_Card,5.4,12,0,1,0
+7.49,grocery_pos,Local_Cafe,Debit_Card,10.2,2,0,0,1
+13.15,grocery_pos,Local_Cafe,Debit_Card,10.2,2,0,0,1
+75.93,grocery_pos,Walmart,Debit_Card,13.72,12,0,1,0
+6.26,grocery_pos,Local_Cafe,Debit_Card,10.2,2,0,0,1
+5.39,grocery_pos,Local_Cafe,Debit_Card,10.2,2,0,0,1
+20.97,grocery_pos,Local_Cafe,Debit_Card,10.2,2,0,0,1
+119.55,entertainment,Steam,Digital_Wallet,5.5,3,0,1,0
+93.69,entertainment,Steam,Digital_Wallet,5.5,3,0,1,0
+2573.92,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+5.07,grocery_pos,Local_Cafe,Debit_Card,10.2,2,0,0,1
+49.77,grocery_pos,Walmart,Debit_Card,4.16,12,0,1,0
+17.99,grocery_pos,Local_Cafe,Debit_Card,10.2,2,0,0,1
+24.37,grocery_pos,Walmart,Debit_Card,10.59,12,0,1,0
+22.29,grocery_pos,Local_Cafe,Debit_Card,10.2,2,0,0,1
+24.3,grocery_pos,Walmart,Debit_Card,7.59,12,0,1,0
+2638.51,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+14.87,grocery_pos,Local_Cafe,Debit_Card,10.2,2,0,0,1
+11.38,grocery_pos,Local_Cafe,Debit_Card,10.2,2,0,0,1
+54.61,grocery_pos,Walmart,Debit_Card,1.18,12,0,1,0
+2786.84,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+9.56,grocery_pos,Local_Cafe,Debit_Card,10.2,2,0,0,1
+957.34,travel,Delta Air,Credit_Card,3448.72,14,1,1,0
+1.0,shopping_net,Unknown_Foreign_Store,Digital_Wallet,450.0,23,1,1,1
+126.0,entertainment,Steam,Digital_Wallet,5.5,3,0,1,0
+5125.42,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+17.63,grocery_pos,Local_Cafe,Debit_Card,10.2,2,0,0,1
+1.0,shopping_net,Unknown_Foreign_Store,Digital_Wallet,450.0,23,1,1,1
+1364.29,travel,Delta Air,Credit_Card,3855.07,14,1,1,0
+71.3,grocery_pos,Walmart,Debit_Card,8.29,12,0,1,0
+6154.54,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+2086.64,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+67.81,grocery_pos,Walmart,Debit_Card,5.25,12,0,1,0
+1.0,shopping_net,Unknown_Foreign_Store,Digital_Wallet,450.0,23,1,1,1
+55.21,grocery_pos,Walmart,Debit_Card,13.02,12,0,1,0
+32.06,grocery_pos,Walmart,Debit_Card,3.88,12,0,1,0
+5180.18,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+5378.59,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+4965.84,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+1.0,shopping_net,Unknown_Foreign_Store,Digital_Wallet,450.0,23,1,1,1
+4837.66,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+17.03,grocery_pos,Walmart,Debit_Card,2.03,12,0,1,0
+3880.64,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+8.23,grocery_pos,Local_Cafe,Debit_Card,10.2,2,0,0,1
+12.41,grocery_pos,Local_Cafe,Debit_Card,10.2,2,0,0,1
+60.9,grocery_pos,Walmart,Debit_Card,9.14,12,0,1,0
+19.76,grocery_pos,Local_Cafe,Debit_Card,10.2,2,0,0,1
+109.68,entertainment,Steam,Digital_Wallet,5.5,3,0,1,0
+47.23,grocery_pos,Walmart,Debit_Card,9.88,12,0,1,0
+61.95,grocery_pos,Walmart,Debit_Card,3.53,12,0,1,0
+1402.2,travel,Delta Air,Credit_Card,3495.81,14,1,1,0
+6087.23,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+5321.96,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+6893.73,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+3192.45,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+5110.28,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+1.0,shopping_net,Unknown_Foreign_Store,Digital_Wallet,450.0,23,1,1,1
+71.88,grocery_pos,Walmart,Debit_Card,10.07,12,0,1,0
+2636.04,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+3749.5,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+108.27,entertainment,Steam,Digital_Wallet,5.5,3,0,1,0
+39.15,grocery_pos,Walmart,Debit_Card,7.05,12,0,1,0
+26.07,grocery_pos,Walmart,Debit_Card,11.06,12,0,1,0
+11.71,grocery_pos,Local_Cafe,Debit_Card,10.2,2,0,0,1
+885.43,travel,Delta Air,Credit_Card,1601.61,14,1,1,0
+5167.18,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+24.52,grocery_pos,Local_Cafe,Debit_Card,10.2,2,0,0,1
+1.0,shopping_net,Unknown_Foreign_Store,Digital_Wallet,450.0,23,1,1,1
+1.0,shopping_net,Unknown_Foreign_Store,Digital_Wallet,450.0,23,1,1,1
+123.34,entertainment,Steam,Digital_Wallet,5.5,3,0,1,0
+129.95,entertainment,Steam,Digital_Wallet,5.5,3,0,1,0
+24.43,grocery_pos,Walmart,Debit_Card,3.31,12,0,1,0
+62.84,grocery_pos,Walmart,Debit_Card,6.17,12,0,1,0
+1047.01,travel,Delta Air,Credit_Card,3600.17,14,1,1,0
+5935.82,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+4733.11,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+4452.93,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+19.48,grocery_pos,Local_Cafe,Debit_Card,10.2,2,0,0,1
+5325.02,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+86.3,entertainment,Steam,Digital_Wallet,5.5,3,0,1,0
+8.51,grocery_pos,Local_Cafe,Debit_Card,10.2,2,0,0,1
+876.43,travel,Delta Air,Credit_Card,2940.6,14,1,1,0
+6678.33,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+3529.78,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+78.99,grocery_pos,Walmart,Debit_Card,8.27,12,0,1,0
+71.09,grocery_pos,Walmart,Debit_Card,11.76,12,0,1,0
+37.1,grocery_pos,Walmart,Debit_Card,8.78,12,0,1,0
+1.0,shopping_net,Unknown_Foreign_Store,Digital_Wallet,450.0,23,1,1,1
+79.92,grocery_pos,Walmart,Debit_Card,1.57,12,0,1,0
+5334.23,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+6279.38,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+6903.28,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+78.24,grocery_pos,Walmart,Debit_Card,13.14,12,0,1,0
+1444.03,travel,Delta Air,Credit_Card,4572.19,14,1,1,0
+5777.33,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+1539.21,travel,Delta Air,Credit_Card,1235.76,14,1,1,0
+5053.38,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+22.01,grocery_pos,Walmart,Debit_Card,3.19,12,0,1,0
+5328.6,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+50.38,entertainment,Steam,Digital_Wallet,5.5,3,0,1,0
+63.38,grocery_pos,Walmart,Debit_Card,9.3,12,0,1,0
+24.0,grocery_pos,Local_Cafe,Debit_Card,10.2,2,0,0,1
+1.0,shopping_net,Unknown_Foreign_Store,Digital_Wallet,450.0,23,1,1,1
+48.81,grocery_pos,Walmart,Debit_Card,14.66,12,0,1,0
+15.82,grocery_pos,Local_Cafe,Debit_Card,10.2,2,0,0,1
+2667.42,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+93.37,entertainment,Steam,Digital_Wallet,5.5,3,0,1,0
+12.53,grocery_pos,Local_Cafe,Debit_Card,10.2,2,0,0,1
+113.41,entertainment,Steam,Digital_Wallet,5.5,3,0,1,0
+6115.77,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+2919.87,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+6230.62,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+60.64,grocery_pos,Walmart,Debit_Card,1.23,12,0,1,0
+105.16,entertainment,Steam,Digital_Wallet,5.5,3,0,1,0
+1432.95,travel,Delta Air,Credit_Card,3385.62,14,1,1,0
+953.13,travel,Delta Air,Credit_Card,4575.46,14,1,1,0
+1.0,shopping_net,Unknown_Foreign_Store,Digital_Wallet,450.0,23,1,1,1
+108.34,entertainment,Steam,Digital_Wallet,5.5,3,0,1,0
+38.92,grocery_pos,Walmart,Debit_Card,9.33,12,0,1,0
+1.0,shopping_net,Unknown_Foreign_Store,Digital_Wallet,450.0,23,1,1,1
+1.0,shopping_net,Unknown_Foreign_Store,Digital_Wallet,450.0,23,1,1,1
+14.77,grocery_pos,Local_Cafe,Debit_Card,10.2,2,0,0,1
+1.0,shopping_net,Unknown_Foreign_Store,Digital_Wallet,450.0,23,1,1,1
+6769.95,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+1.0,shopping_net,Unknown_Foreign_Store,Digital_Wallet,450.0,23,1,1,1
+72.13,entertainment,Steam,Digital_Wallet,5.5,3,0,1,0
+5287.23,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+62.61,grocery_pos,Walmart,Debit_Card,7.64,12,0,1,0
+20.4,grocery_pos,Local_Cafe,Debit_Card,10.2,2,0,0,1
+1.0,shopping_net,Unknown_Foreign_Store,Digital_Wallet,450.0,23,1,1,1
+16.4,grocery_pos,Local_Cafe,Debit_Card,10.2,2,0,0,1
+1000.98,travel,Delta Air,Credit_Card,3136.31,14,1,1,0
+58.12,entertainment,Steam,Digital_Wallet,5.5,3,0,1,0
+1651.57,travel,Delta Air,Credit_Card,3115.27,14,1,1,0
+1.0,shopping_net,Unknown_Foreign_Store,Digital_Wallet,450.0,23,1,1,1
+42.68,grocery_pos,Walmart,Debit_Card,4.7,12,0,1,0
+1063.8,travel,Delta Air,Credit_Card,3446.69,14,1,1,0
+1.0,shopping_net,Unknown_Foreign_Store,Digital_Wallet,450.0,23,1,1,1
+22.57,grocery_pos,Local_Cafe,Debit_Card,10.2,2,0,0,1
+53.39,grocery_pos,Walmart,Debit_Card,5.61,12,0,1,0
+25.61,grocery_pos,Walmart,Debit_Card,6.27,12,0,1,0
+4828.69,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+4836.34,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+3273.09,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+27.48,grocery_pos,Walmart,Debit_Card,4.22,12,0,1,0
+1589.38,travel,Delta Air,Credit_Card,4091.51,14,1,1,0
+33.44,grocery_pos,Walmart,Debit_Card,8.6,12,0,1,0
+1.0,shopping_net,Unknown_Foreign_Store,Digital_Wallet,450.0,23,1,1,1
+124.48,entertainment,Steam,Digital_Wallet,5.5,3,0,1,0
+70.26,grocery_pos,Walmart,Debit_Card,4.66,12,0,1,0
+4031.6,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+1292.32,travel,Delta Air,Credit_Card,3646.87,14,1,1,0
+15.83,grocery_pos,Walmart,Debit_Card,3.75,12,0,1,0
+6.27,grocery_pos,Local_Cafe,Debit_Card,10.2,2,0,0,1
+1421.15,travel,Delta Air,Credit_Card,4216.11,14,1,1,0
+4034.09,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+966.81,travel,Delta Air,Credit_Card,3869.86,14,1,1,0
+1.0,shopping_net,Unknown_Foreign_Store,Digital_Wallet,450.0,23,1,1,1
+24.41,grocery_pos,Local_Cafe,Debit_Card,10.2,2,0,0,1
+2454.84,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+6189.54,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+4237.28,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+15.72,grocery_pos,Walmart,Debit_Card,1.14,12,0,1,0
+1277.08,travel,Delta Air,Credit_Card,2911.11,14,1,1,0
+4145.83,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+34.02,grocery_pos,Walmart,Debit_Card,11.21,12,0,1,0
+1.0,shopping_net,Unknown_Foreign_Store,Digital_Wallet,450.0,23,1,1,1
+11.36,grocery_pos,Walmart,Debit_Card,1.11,12,0,1,0
+1541.19,travel,Delta Air,Credit_Card,2475.5,14,1,1,0
+1.0,shopping_net,Unknown_Foreign_Store,Digital_Wallet,450.0,23,1,1,1
+7.83,grocery_pos,Local_Cafe,Debit_Card,10.2,2,0,0,1
+23.6,grocery_pos,Walmart,Debit_Card,9.01,12,0,1,0
+1891.85,travel,Delta Air,Credit_Card,1514.52,14,1,1,0
+1401.43,travel,Delta Air,Credit_Card,1837.34,14,1,1,0
+3580.5,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+53.69,grocery_pos,Walmart,Debit_Card,10.35,12,0,1,0
+6723.66,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+37.84,grocery_pos,Walmart,Debit_Card,7.26,12,0,1,0
+6193.59,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+50.05,grocery_pos,Walmart,Debit_Card,2.47,12,0,1,0
+27.62,grocery_pos,Walmart,Debit_Card,8.33,12,0,1,0
+1793.19,travel,Delta Air,Credit_Card,2406.81,14,1,1,0
+58.48,entertainment,Steam,Digital_Wallet,5.5,3,0,1,0
+10.63,grocery_pos,Local_Cafe,Debit_Card,10.2,2,0,0,1
+58.36,grocery_pos,Walmart,Debit_Card,5.86,12,0,1,0
+75.42,grocery_pos,Walmart,Debit_Card,14.32,12,0,1,0
+30.62,grocery_pos,Walmart,Debit_Card,14.6,12,0,1,0
+66.93,grocery_pos,Walmart,Debit_Card,13.04,12,0,1,0
+5844.08,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+14.09,grocery_pos,Walmart,Debit_Card,8.54,12,0,1,0
+21.49,grocery_pos,Local_Cafe,Debit_Card,10.2,2,0,0,1
+79.71,grocery_pos,Walmart,Debit_Card,10.22,12,0,1,0
+1980.23,travel,Delta Air,Credit_Card,1317.46,14,1,1,0
+75.08,grocery_pos,Walmart,Debit_Card,3.08,12,0,1,0
+17.72,grocery_pos,Local_Cafe,Debit_Card,10.2,2,0,0,1
+3758.06,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+4877.73,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+1608.53,travel,Delta Air,Credit_Card,1221.28,14,1,1,0
+33.29,grocery_pos,Walmart,Debit_Card,10.94,12,0,1,0
+98.42,entertainment,Steam,Digital_Wallet,5.5,3,0,1,0
+10.39,grocery_pos,Walmart,Debit_Card,7.79,12,0,1,0
+53.74,grocery_pos,Walmart,Debit_Card,10.45,12,0,1,0
+1.0,shopping_net,Unknown_Foreign_Store,Digital_Wallet,450.0,23,1,1,1
+1191.48,travel,Delta Air,Credit_Card,2932.87,14,1,1,0
+148.66,entertainment,Steam,Digital_Wallet,5.5,3,0,1,0
+54.41,grocery_pos,Walmart,Debit_Card,4.94,12,0,1,0
+12.27,grocery_pos,Walmart,Debit_Card,2.18,12,0,1,0
+1779.43,travel,Delta Air,Credit_Card,2073.26,14,1,1,0
+66.32,entertainment,Steam,Digital_Wallet,5.5,3,0,1,0
+3253.51,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+1342.81,travel,Delta Air,Credit_Card,4976.02,14,1,1,0
+18.53,grocery_pos,Local_Cafe,Debit_Card,10.2,2,0,0,1
+5378.35,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+5322.85,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+1934.28,travel,Delta Air,Credit_Card,2160.35,14,1,1,0
+65.3,grocery_pos,Walmart,Debit_Card,11.76,12,0,1,0
+5441.03,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+6052.42,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+2072.5,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+18.44,grocery_pos,Walmart,Debit_Card,12.57,12,0,1,0
+21.4,grocery_pos,Local_Cafe,Debit_Card,10.2,2,0,0,1
+6091.01,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+30.56,grocery_pos,Walmart,Debit_Card,9.83,12,0,1,0
+5.89,grocery_pos,Local_Cafe,Debit_Card,10.2,2,0,0,1
+6090.87,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+6519.13,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+1.0,shopping_net,Unknown_Foreign_Store,Digital_Wallet,450.0,23,1,1,1
+81.86,entertainment,Steam,Digital_Wallet,5.5,3,0,1,0
+14.04,grocery_pos,Local_Cafe,Debit_Card,10.2,2,0,0,1
+72.06,entertainment,Steam,Digital_Wallet,5.5,3,0,1,0
+1.0,shopping_net,Unknown_Foreign_Store,Digital_Wallet,450.0,23,1,1,1
+77.41,grocery_pos,Walmart,Debit_Card,5.79,12,0,1,0
+64.36,entertainment,Steam,Digital_Wallet,5.5,3,0,1,0
+56.41,entertainment,Steam,Digital_Wallet,5.5,3,0,1,0
+133.8,entertainment,Steam,Digital_Wallet,5.5,3,0,1,0
+1206.41,travel,Delta Air,Credit_Card,3209.48,14,1,1,0
+8.99,grocery_pos,Local_Cafe,Debit_Card,10.2,2,0,0,1
+6998.22,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+6683.33,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+122.12,entertainment,Steam,Digital_Wallet,5.5,3,0,1,0
+4047.96,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+1696.47,travel,Delta Air,Credit_Card,4433.36,14,1,1,0
+32.89,grocery_pos,Walmart,Debit_Card,3.51,12,0,1,0
+5531.62,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+4315.79,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+1659.43,travel,Delta Air,Credit_Card,4235.03,14,1,1,0
+32.98,grocery_pos,Walmart,Debit_Card,6.15,12,0,1,0
+1.0,shopping_net,Unknown_Foreign_Store,Digital_Wallet,450.0,23,1,1,1
+18.92,grocery_pos,Walmart,Debit_Card,14.83,12,0,1,0
+43.29,grocery_pos,Walmart,Debit_Card,1.16,12,0,1,0
+1.0,shopping_net,Unknown_Foreign_Store,Digital_Wallet,450.0,23,1,1,1
+74.17,entertainment,Steam,Digital_Wallet,5.5,3,0,1,0
+3863.03,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+1313.26,travel,Delta Air,Credit_Card,1971.52,14,1,1,0
+6120.09,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+4326.18,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+77.47,entertainment,Steam,Digital_Wallet,5.5,3,0,1,0
+1879.27,travel,Delta Air,Credit_Card,3054.72,14,1,1,0
+68.18,grocery_pos,Walmart,Debit_Card,4.82,12,0,1,0
+1498.61,travel,Delta Air,Credit_Card,1824.38,14,1,1,0
+1.0,shopping_net,Unknown_Foreign_Store,Digital_Wallet,450.0,23,1,1,1
+61.68,grocery_pos,Walmart,Debit_Card,11.56,12,0,1,0
+3684.72,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+5.91,grocery_pos,Local_Cafe,Debit_Card,10.2,2,0,0,1
+3892.97,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+1653.21,travel,Delta Air,Credit_Card,1354.2,14,1,1,0
+41.58,grocery_pos,Walmart,Debit_Card,5.02,12,0,1,0
+2960.78,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+54.8,grocery_pos,Walmart,Debit_Card,8.0,12,0,1,0
+74.42,grocery_pos,Walmart,Debit_Card,14.27,12,0,1,0
+1837.38,travel,Delta Air,Credit_Card,2107.61,14,1,1,0
+998.0,travel,Delta Air,Credit_Card,1741.29,14,1,1,0
+66.38,grocery_pos,Walmart,Debit_Card,11.26,12,0,1,0
+1.0,shopping_net,Unknown_Foreign_Store,Digital_Wallet,450.0,23,1,1,1
+46.4,grocery_pos,Walmart,Debit_Card,13.63,12,0,1,0
+1527.68,travel,Delta Air,Credit_Card,1321.14,14,1,1,0
+4296.73,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+1.0,shopping_net,Unknown_Foreign_Store,Digital_Wallet,450.0,23,1,1,1
+14.12,grocery_pos,Walmart,Debit_Card,2.61,12,0,1,0
+148.11,entertainment,Steam,Digital_Wallet,5.5,3,0,1,0
+3012.33,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+39.81,grocery_pos,Walmart,Debit_Card,12.03,12,0,1,0
+119.98,entertainment,Steam,Digital_Wallet,5.5,3,0,1,0
+1258.84,travel,Delta Air,Credit_Card,4080.68,14,1,1,0
+6327.98,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+1.0,shopping_net,Unknown_Foreign_Store,Digital_Wallet,450.0,23,1,1,1
+72.95,grocery_pos,Walmart,Debit_Card,14.88,12,0,1,0
+59.45,grocery_pos,Walmart,Debit_Card,2.15,12,0,1,0
+2485.15,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+15.16,grocery_pos,Walmart,Debit_Card,14.75,12,0,1,0
+5881.31,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+41.73,grocery_pos,Walmart,Debit_Card,6.67,12,0,1,0
+24.9,grocery_pos,Walmart,Debit_Card,6.49,12,0,1,0
+3442.58,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+4671.13,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+838.0,travel,Delta Air,Credit_Card,1606.92,14,1,1,0
+6.06,grocery_pos,Local_Cafe,Debit_Card,10.2,2,0,0,1
+79.42,grocery_pos,Walmart,Debit_Card,8.85,12,0,1,0
+6638.77,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+1610.04,travel,Delta Air,Credit_Card,1024.11,14,1,1,0
+5402.67,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+75.64,grocery_pos,Walmart,Debit_Card,13.71,12,0,1,0
+6665.59,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+1.0,shopping_net,Unknown_Foreign_Store,Digital_Wallet,450.0,23,1,1,1
+41.24,grocery_pos,Walmart,Debit_Card,10.29,12,0,1,0
+5521.02,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+51.53,entertainment,Steam,Digital_Wallet,5.5,3,0,1,0
+14.89,grocery_pos,Local_Cafe,Debit_Card,10.2,2,0,0,1
+1786.76,travel,Delta Air,Credit_Card,3838.49,14,1,1,0
+17.08,grocery_pos,Walmart,Debit_Card,8.23,12,0,1,0
+6488.83,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+89.48,entertainment,Steam,Digital_Wallet,5.5,3,0,1,0
+21.35,grocery_pos,Local_Cafe,Debit_Card,10.2,2,0,0,1
+10.01,grocery_pos,Walmart,Debit_Card,12.51,12,0,1,0
+21.92,grocery_pos,Local_Cafe,Debit_Card,10.2,2,0,0,1
+56.31,grocery_pos,Walmart,Debit_Card,12.85,12,0,1,0
+1.0,shopping_net,Unknown_Foreign_Store,Digital_Wallet,450.0,23,1,1,1
+3024.67,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+4625.54,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+1.0,shopping_net,Unknown_Foreign_Store,Digital_Wallet,450.0,23,1,1,1
+11.28,grocery_pos,Walmart,Debit_Card,8.25,12,0,1,0
+3749.24,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+3410.27,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+73.85,entertainment,Steam,Digital_Wallet,5.5,3,0,1,0
+5914.11,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+45.16,grocery_pos,Walmart,Debit_Card,5.39,12,0,1,0
+2817.24,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+4431.44,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+3644.36,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+56.59,grocery_pos,Walmart,Debit_Card,1.6,12,0,1,0
+4377.46,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+2476.8,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+2080.04,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+2903.02,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+34.8,grocery_pos,Walmart,Debit_Card,3.4,12,0,1,0
+4533.97,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+48.15,grocery_pos,Walmart,Debit_Card,5.8,12,0,1,0
+4192.62,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+3367.27,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+1822.94,travel,Delta Air,Credit_Card,4825.25,14,1,1,0
+20.34,grocery_pos,Walmart,Debit_Card,4.98,12,0,1,0
+1038.04,travel,Delta Air,Credit_Card,1208.36,14,1,1,0
+3965.09,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+1850.55,travel,Delta Air,Credit_Card,2815.96,14,1,1,0
+857.52,travel,Delta Air,Credit_Card,4525.73,14,1,1,0
+6365.02,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+1.0,shopping_net,Unknown_Foreign_Store,Digital_Wallet,450.0,23,1,1,1
+135.94,entertainment,Steam,Digital_Wallet,5.5,3,0,1,0
+3892.89,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+35.19,grocery_pos,Walmart,Debit_Card,12.17,12,0,1,0
+10.03,grocery_pos,Local_Cafe,Debit_Card,10.2,2,0,0,1
+62.12,grocery_pos,Walmart,Debit_Card,1.62,12,0,1,0
+131.95,entertainment,Steam,Digital_Wallet,5.5,3,0,1,0
+12.71,grocery_pos,Walmart,Debit_Card,11.64,12,0,1,0
+36.53,grocery_pos,Walmart,Debit_Card,10.36,12,0,1,0
+148.06,entertainment,Steam,Digital_Wallet,5.5,3,0,1,0
+53.31,grocery_pos,Walmart,Debit_Card,8.02,12,0,1,0
+39.19,grocery_pos,Walmart,Debit_Card,10.54,12,0,1,0
+1.0,shopping_net,Unknown_Foreign_Store,Digital_Wallet,450.0,23,1,1,1
+1.0,shopping_net,Unknown_Foreign_Store,Digital_Wallet,450.0,23,1,1,1
+2888.39,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+5959.25,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+5663.69,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+4676.45,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+37.9,grocery_pos,Walmart,Debit_Card,3.59,12,0,1,0
+17.76,grocery_pos,Local_Cafe,Debit_Card,10.2,2,0,0,1
+6327.47,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+1645.41,travel,Delta Air,Credit_Card,1494.56,14,1,1,0
+44.44,grocery_pos,Walmart,Debit_Card,7.19,12,0,1,0
+3346.72,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+16.29,grocery_pos,Walmart,Debit_Card,10.08,12,0,1,0
+2965.06,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+3569.82,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+1250.22,travel,Delta Air,Credit_Card,1388.15,14,1,1,0
+65.92,grocery_pos,Walmart,Debit_Card,3.92,12,0,1,0
+19.29,grocery_pos,Local_Cafe,Debit_Card,10.2,2,0,0,1
+19.05,grocery_pos,Walmart,Debit_Card,13.14,12,0,1,0
+68.38,entertainment,Steam,Digital_Wallet,5.5,3,0,1,0
+48.14,grocery_pos,Walmart,Debit_Card,3.44,12,0,1,0
+1886.03,travel,Delta Air,Credit_Card,2774.39,14,1,1,0
+3404.8,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+5651.68,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+1361.59,travel,Delta Air,Credit_Card,4231.75,14,1,1,0
+5562.12,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+21.59,grocery_pos,Local_Cafe,Debit_Card,10.2,2,0,0,1
+1104.36,travel,Delta Air,Credit_Card,4986.28,14,1,1,0
+120.94,entertainment,Steam,Digital_Wallet,5.5,3,0,1,0
+26.95,grocery_pos,Walmart,Debit_Card,3.98,12,0,1,0
+27.5,grocery_pos,Walmart,Debit_Card,5.91,12,0,1,0
+1.0,shopping_net,Unknown_Foreign_Store,Digital_Wallet,450.0,23,1,1,1
+2740.95,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+1.0,shopping_net,Unknown_Foreign_Store,Digital_Wallet,450.0,23,1,1,1
+4198.03,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+34.42,grocery_pos,Walmart,Debit_Card,12.25,12,0,1,0
+6746.9,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+116.65,entertainment,Steam,Digital_Wallet,5.5,3,0,1,0
+17.12,grocery_pos,Walmart,Debit_Card,12.79,12,0,1,0
+3638.68,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+73.82,entertainment,Steam,Digital_Wallet,5.5,3,0,1,0
+110.07,entertainment,Steam,Digital_Wallet,5.5,3,0,1,0
+1.0,shopping_net,Unknown_Foreign_Store,Digital_Wallet,450.0,23,1,1,1
+5.07,grocery_pos,Local_Cafe,Debit_Card,10.2,2,0,0,1
+26.33,grocery_pos,Walmart,Debit_Card,1.28,12,0,1,0
+6422.41,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+55.47,grocery_pos,Walmart,Debit_Card,13.2,12,0,1,0
+1307.05,travel,Delta Air,Credit_Card,1980.13,14,1,1,0
+54.24,grocery_pos,Walmart,Debit_Card,1.37,12,0,1,0
+9.29,grocery_pos,Local_Cafe,Debit_Card,10.2,2,0,0,1
+40.01,grocery_pos,Walmart,Debit_Card,11.26,12,0,1,0
+6780.0,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+6461.68,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+4792.49,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+3625.78,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+16.3,grocery_pos,Local_Cafe,Debit_Card,10.2,2,0,0,1
+4942.74,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+69.09,grocery_pos,Walmart,Debit_Card,2.07,12,0,1,0
+5887.95,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+48.0,grocery_pos,Walmart,Debit_Card,3.13,12,0,1,0
+1.0,shopping_net,Unknown_Foreign_Store,Digital_Wallet,450.0,23,1,1,1
+6946.22,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+10.59,grocery_pos,Local_Cafe,Debit_Card,10.2,2,0,0,1
+882.35,travel,Delta Air,Credit_Card,4719.08,14,1,1,0
+5281.89,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+77.91,grocery_pos,Walmart,Debit_Card,10.82,12,0,1,0
+13.25,grocery_pos,Local_Cafe,Debit_Card,10.2,2,0,0,1
+62.27,grocery_pos,Walmart,Debit_Card,11.89,12,0,1,0
+5355.89,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+5873.89,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+18.23,grocery_pos,Walmart,Debit_Card,1.96,12,0,1,0
+66.33,grocery_pos,Walmart,Debit_Card,2.13,12,0,1,0
+5548.23,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+51.26,grocery_pos,Walmart,Debit_Card,9.23,12,0,1,0
+1094.16,travel,Delta Air,Credit_Card,1052.64,14,1,1,0
+57.17,grocery_pos,Walmart,Debit_Card,10.81,12,0,1,0
+27.24,grocery_pos,Walmart,Debit_Card,6.39,12,0,1,0
+21.19,grocery_pos,Local_Cafe,Debit_Card,10.2,2,0,0,1
+3016.51,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+6478.04,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+30.6,grocery_pos,Walmart,Debit_Card,13.63,12,0,1,0
+2489.31,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+139.87,entertainment,Steam,Digital_Wallet,5.5,3,0,1,0
+3293.13,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+3131.86,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+39.7,grocery_pos,Walmart,Debit_Card,8.87,12,0,1,0
+16.53,grocery_pos,Walmart,Debit_Card,5.16,12,0,1,0
+1742.67,travel,Delta Air,Credit_Card,1356.38,14,1,1,0
+74.76,grocery_pos,Walmart,Debit_Card,12.78,12,0,1,0
+50.18,grocery_pos,Walmart,Debit_Card,11.52,12,0,1,0
+1999.04,travel,Delta Air,Credit_Card,2154.45,14,1,1,0
+3044.61,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+145.99,entertainment,Steam,Digital_Wallet,5.5,3,0,1,0
+24.75,grocery_pos,Walmart,Debit_Card,6.9,12,0,1,0
+24.05,grocery_pos,Local_Cafe,Debit_Card,10.2,2,0,0,1
+1.0,shopping_net,Unknown_Foreign_Store,Digital_Wallet,450.0,23,1,1,1
+70.78,grocery_pos,Walmart,Debit_Card,14.93,12,0,1,0
+3634.34,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+15.6,grocery_pos,Walmart,Debit_Card,2.63,12,0,1,0
+41.95,grocery_pos,Walmart,Debit_Card,2.95,12,0,1,0
+53.63,grocery_pos,Walmart,Debit_Card,4.37,12,0,1,0
+13.04,grocery_pos,Local_Cafe,Debit_Card,10.2,2,0,0,1
+4574.46,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+32.61,grocery_pos,Walmart,Debit_Card,6.07,12,0,1,0
+1.0,shopping_net,Unknown_Foreign_Store,Digital_Wallet,450.0,23,1,1,1
+1460.64,travel,Delta Air,Credit_Card,2072.08,14,1,1,0
+18.46,grocery_pos,Local_Cafe,Debit_Card,10.2,2,0,0,1
+17.8,grocery_pos,Walmart,Debit_Card,10.31,12,0,1,0
+65.47,grocery_pos,Walmart,Debit_Card,14.41,12,0,1,0
+1273.24,travel,Delta Air,Credit_Card,3924.29,14,1,1,0
+5087.23,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+5159.55,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+79.49,entertainment,Steam,Digital_Wallet,5.5,3,0,1,0
+5388.51,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+34.66,grocery_pos,Walmart,Debit_Card,12.23,12,0,1,0
+9.79,grocery_pos,Local_Cafe,Debit_Card,10.2,2,0,0,1
+3584.61,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+76.52,grocery_pos,Walmart,Debit_Card,12.42,12,0,1,0
+1398.29,travel,Delta Air,Credit_Card,3294.85,14,1,1,0
+5236.45,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+130.66,entertainment,Steam,Digital_Wallet,5.5,3,0,1,0
+1.0,shopping_net,Unknown_Foreign_Store,Digital_Wallet,450.0,23,1,1,1
+51.62,grocery_pos,Walmart,Debit_Card,1.24,12,0,1,0
+1063.35,travel,Delta Air,Credit_Card,4055.43,14,1,1,0
+3267.78,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+1703.85,travel,Delta Air,Credit_Card,3081.16,14,1,1,0
+6138.39,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+81.73,entertainment,Steam,Digital_Wallet,5.5,3,0,1,0
+59.82,entertainment,Steam,Digital_Wallet,5.5,3,0,1,0
+14.66,grocery_pos,Local_Cafe,Debit_Card,10.2,2,0,0,1
+148.41,entertainment,Steam,Digital_Wallet,5.5,3,0,1,0
+27.03,grocery_pos,Walmart,Debit_Card,2.36,12,0,1,0
+27.01,grocery_pos,Walmart,Debit_Card,7.51,12,0,1,0
+1.0,shopping_net,Unknown_Foreign_Store,Digital_Wallet,450.0,23,1,1,1
+6.96,grocery_pos,Local_Cafe,Debit_Card,10.2,2,0,0,1
+1.0,shopping_net,Unknown_Foreign_Store,Digital_Wallet,450.0,23,1,1,1
+2786.85,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+60.65,entertainment,Steam,Digital_Wallet,5.5,3,0,1,0
+18.52,grocery_pos,Walmart,Debit_Card,8.6,12,0,1,0
+40.4,grocery_pos,Walmart,Debit_Card,3.79,12,0,1,0
+38.33,grocery_pos,Walmart,Debit_Card,14.89,12,0,1,0
+2011.95,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+9.97,grocery_pos,Local_Cafe,Debit_Card,10.2,2,0,0,1
+6063.25,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+36.07,grocery_pos,Walmart,Debit_Card,13.0,12,0,1,0
+21.68,grocery_pos,Local_Cafe,Debit_Card,10.2,2,0,0,1
+11.18,grocery_pos,Local_Cafe,Debit_Card,10.2,2,0,0,1
+43.9,grocery_pos,Walmart,Debit_Card,5.74,12,0,1,0
+11.93,grocery_pos,Walmart,Debit_Card,1.45,12,0,1,0
+15.68,grocery_pos,Walmart,Debit_Card,11.13,12,0,1,0
+17.41,grocery_pos,Walmart,Debit_Card,2.83,12,0,1,0
+141.66,entertainment,Steam,Digital_Wallet,5.5,3,0,1,0
+1389.43,travel,Delta Air,Credit_Card,2080.71,14,1,1,0
+7.94,grocery_pos,Local_Cafe,Debit_Card,10.2,2,0,0,1
+7.16,grocery_pos,Local_Cafe,Debit_Card,10.2,2,0,0,1
+3451.73,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+2735.07,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+6977.13,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+1.0,shopping_net,Unknown_Foreign_Store,Digital_Wallet,450.0,23,1,1,1
+44.45,grocery_pos,Walmart,Debit_Card,7.51,12,0,1,0
+2345.58,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+2648.42,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+6568.24,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+36.14,grocery_pos,Walmart,Debit_Card,1.55,12,0,1,0
+63.53,grocery_pos,Walmart,Debit_Card,12.34,12,0,1,0
+4352.8,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+61.93,grocery_pos,Walmart,Debit_Card,1.68,12,0,1,0
+1.0,shopping_net,Unknown_Foreign_Store,Digital_Wallet,450.0,23,1,1,1
+70.94,grocery_pos,Walmart,Debit_Card,10.72,12,0,1,0
+3507.42,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+62.14,grocery_pos,Walmart,Debit_Card,13.64,12,0,1,0
+3019.68,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+70.27,grocery_pos,Walmart,Debit_Card,11.74,12,0,1,0
+4679.85,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+4792.1,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+146.75,entertainment,Steam,Digital_Wallet,5.5,3,0,1,0
+61.01,grocery_pos,Walmart,Debit_Card,1.36,12,0,1,0
+1.0,shopping_net,Unknown_Foreign_Store,Digital_Wallet,450.0,23,1,1,1
+39.83,grocery_pos,Walmart,Debit_Card,5.28,12,0,1,0
+41.1,grocery_pos,Walmart,Debit_Card,1.51,12,0,1,0
+3382.19,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+13.43,grocery_pos,Local_Cafe,Debit_Card,10.2,2,0,0,1
+4676.53,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+1532.93,travel,Delta Air,Credit_Card,3911.43,14,1,1,0
+5645.44,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
+990.41,travel,Delta Air,Credit_Card,2679.69,14,1,1,0
+3744.64,misc_net,Unknown_Foreign_Store,Wire_Transfer,800.0,1,1,1,1
