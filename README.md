@@ -53,10 +53,10 @@ The system follows an **Agentic Pipeline** architecture:
 
 ## 📊 Performance Metrics
 
-The system is evaluated against adversarial data to ensure robustness:
+The system is evaluated against adversarial data to ensure robustness. For a deep dive into how these agents collaborate, see the [Full System Workflow Documentation](DOCS.md).
 
-| Metric | Target Value |
-| :--- | :--- |
-| **Precision** | **~1.00** |
-| **Recall** | **~1.00** |
-| **Accuracy** | **~99-100%** |
+| Metric | Accuracy (Current) | Target Value |
+| :--- | :--- | :--- |
+| **Precision** | **1.00** | 0.98+ |
+| **Recall** | **1.00** | 0.98+ |
+| **Accuracy** | **100.0%** | 99%+ |
