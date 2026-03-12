@@ -38,11 +38,13 @@ with col1:
     payment_method = st.selectbox("Payment Method", ['Credit_Card', 'Digital_Wallet', 'Debit_Card', 'Wire_Transfer'])
     distance_km = st.number_input("Distance from Home (km)", min_value=0.0, value=10.0)
     hour = st.slider("Hour of Day", 0, 23, 12)
-    is_international = st.checkbox("International Transaction")
+    is_international_val = st.radio("Transaction Scope", ["Local", "International"], horizontal=True)
     
     # UI Logic: CVV only applies to Cards
     is_card = payment_method in ['Credit_Card', 'Debit_Card']
-    cvv_matches = st.checkbox("CVV Matches", value=True, disabled=not is_card, help="Only relevant for Credit/Debit cards.")
+    cvv_status = st.radio("CVV Verification", ["Matched", "Mismatch"], index=0, 
+                          disabled=not is_card, horizontal=True,
+                          help="Only relevant for Credit/Debit cards.")
     
     submit = st.button("Run Agentic Audit")
 
@@ -51,8 +53,8 @@ with col1:
         tx_data = {
             "amt": amt, "category": category, "merchant": merchant,
             "payment_method": payment_method, "distance_km": distance_km,
-            "hour": hour, "is_international": 1 if is_international else 0,
-            "cvv_matches": 1 if cvv_matches else 0, "is_fraud": 0
+            "hour": hour, "is_international": 1 if is_international_val == "International" else 0,
+            "cvv_matches": 1 if cvv_status == "Matched" else 0, "is_fraud": 0
         }
         
         with st.spinner("Agents are analyzing..."):
